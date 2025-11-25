@@ -1,0 +1,31 @@
+emp_id,emp_role,emp_name,emp_pan,address,city,pin,state,country,mobile,email,status,branch,login_flag,password,group_id,count,created_by,created_date,updated_by,updated_date,updation_status
+DI-1,admin,"Security Officer Mumbai",ABCDEF56RT,Mumabi,"Gautam Buddha Nagar",201301,"Uttar Pradesh",India,8712236383,a@gmail.com,Active,BR-1,1,1234,GRP-1,6,NULL,NULL,NULL,"2025-07-08 16:16:38",Edit
+DI-10,admin,"vijay kumar garg j",123456,vd,Faridabad,121008,Haryana,India,1234567890,securityofficer@gmail.com,Active,BR-1,1,1234,GRP-1,7,NULL,NULL,NULL,"2025-07-09 15:23:30",Edit
+DI-11,admin,"Akansha R",HSDFF6542A,Noida,"Gautam Buddha Nagar",201301,"Uttar Pradesh",India,1234567890,ab@gmail.com,Active,BR-14,1,1234,GRP-1,9,NULL,NULL,NULL,"2025-07-15 16:50:27",Edit
+DI-12,user,"Prafull Bajpai",KJHGF3455F,"Roza Mandi Gate No. 2 , Roza Shahjahanpur",Shahjahanp,242001,U.P.,INDIA,456732345678,cro@gmail.com,Active,BR-1,1,1234,GRP-1,1,NULL,NULL,NULL,NULL,NULL
+DI-13,admin,samay,hhhga5678h,"nala supara","shahjahanpur ",242001,up,india,9125265269,email@gmail.com,Active,BR-10,1,0987,GRP-1,1,NULL,NULL,NULL,NULL,NULL
+DI-14,admin,"VIJAY DUBEY",APIRW1234P,NOIDA,NOIDA,201301,UP,INDIA,8448990237,ubi@gmail.com,Active,BR-11,1,1234,GRP-1,1,NULL,NULL,NULL,NULL,NULL
+DI-15,admin,"SBI BHOPAL",BDDPS9190K,BHOPAL,Bhopal,462003,"Madhya Pradesh",India,8448990237,vijay@disvu.net,Active,"Rajnagar PUGB",1,123,"Admin Group",2,DI-1,"2024-08-21 16:36:34",NULL,"2025-07-09 12:20:09",Edit
+DI-17,admin,"PNB  RO DURGAPUR",ABCDE1234A,"PNB RO DURGAPUR",Bardhaman,713216,"West Bengal",India,0000000000,cms@digitalsindia.com,Active,BR-20,1,1234,GRP-1,4,DI-1,"2025-02-28 18:16:29",DI-17,"2025-05-23 11:02:26",Edit
+DI-19,admin,"Security Officer",ABCDE1234A,"Rajnagar PUPGM","Ghaziabad "," 201002","Uttar Praesh",India,9644113339,pradhmarogzb@gmail.com,Active,BR-23,1,1234,GRP-1,3,DI-18,"2025-03-08 10:40:04",DI-18,"2025-03-10 13:31:39",Edit
+DI-2,"security officer","Security Officer Sector 62 Bank Of India",ABCDEF56RT,"Sector 62",Noida,201301,"Uttar Pradesh",India,8279619928,boihomumbai@gmail.com,Active,BR-1,1,1234,GRP-1,1,NULL,NULL,NULL,NULL,NULL
+DI-20,admin,PUPGB,ABCDE1234A,"Rajnagar Ghaziabad",Ghaziabad,2012002,"Utter Pradesh",India,9644113339,cmsoptr01@digitalsindia.com,Active,BR-23,1,1234,GRP-2,3,DI-1,"2025-03-11 17:15:11",DI-20,"2025-04-07 15:30:16",Edit
+DI-21,admin,"PNB SECURITY OFFICER ",NULL,C22,"Gautam Buddha Nagar",201301,"Uttar Pradesh",India,8448990237,devyadav262122@gmail.com,Active,BR-35,1,1234,GRP-1,1,DI-1,"2025-04-15 15:40:15",NULL,NULL,Save
+DI-26,"security officer","Society Head",NULL,Noida,"Gautam Buddha Nagar",201301,"Uttar Pradesh",India,9289374904,aoa.ambar@gmail.com,Active,BR-25,1,1234,GRP-1,2,DI-1,"2025-05-07 10:31:51",DI-26,"2025-05-09 12:42:17",Edit
+DI-27,admin,test,NULL,"testing address","Gautam Buddha Nagar",201301,"Uttar Pradesh",India,1345678902,bbb@gmail.com,Active,BR-43,1,1234,GRP-1,1,DI-1,"2025-05-07 13:16:56",NULL,NULL,Save
+DI-28,admin,"Vijay Dubey`",NULL,Noida,"Gautam Buddha Nagar",201301,"Uttar Pradesh",India,7878878778,abc@gmail.com,Active,BR-48,1,2580,GRP-1,1,DI-1,"2025-05-22 15:44:07",NULL,NULL,Save
+DI-29,admin,tester,NULL,test,"Gautam Buddha Nagar",201301,"Uttar Pradesh",India,1234567890,aaa@a.in,Active,BR-56,1,1111,GRP-1,1,DI-1,"2025-07-08 11:20:30",NULL,NULL,Save
+DI-3,admin,"Security Officer Vaishali",ABCDEF56RT,Vaishali,Noida,201301,"Uttar Pradesh",India,8279619928,c@gmail.com,Active,BR-3,1,1234,GRP-1,1,NULL,NULL,NULL,NULL,NULL
+DI-30,admin,"ANUJ CHAUAHAN",NULL,"Hno 103 Girdhar Enclave sahibabad Ghaziabad",Ghaziabad,201005,"UTTAR PRADESH",India,8377035376,anuj@gmail.com,Active,BR-62,1,123789,GRP-1,1,NULL,"2025-07-09 12:41:39",NULL,NULL,Save
+DI-31,admin,"suyash ss",NULL,qq,"East Delhi",201301,"Uttar Pradesh",India,1234567890,suy@gmail.com,Active,BR-16,0,1234567890,GRP-1,1,NULL,"2025-07-09 13:12:22",NULL,NULL,Save
+DI-32,admin,"suyash ss",NULL,qq,"East Delhi",201301,"Uttar Pradesh",India,1234567890,suy@gmail.com,Active,BR-16,0,1234567890,GRP-1,1,NULL,"2025-07-09 13:12:22",NULL,NULL,Save
+DI-33,admin,anas,NULL,qqww,"Gautam Buddha Nagar",201301,"Uttar Pradesh",India,1234567890,anas@gmail.com,Active,BR-16,0,1234567890,GRP-1,1,NULL,"2025-07-09 13:16:08",NULL,NULL,Save
+DI-34,"system integrator",Anuj,NULL,gjcg,"Gautam Buddha Nagar",201301,"Uttar Pradesh",India,1111111111,anuj@doritech.in,Active,BR-69,1,123456,GRP-1,1,NULL,"2025-07-11 15:51:35",NULL,NULL,Save
+DI-35,admin,"ANUJ CHAUAHAN",NULL,"Hno 103 Girdhar Enclave sahibabad Ghaziabad",Ghaziabad,201005,"Uttar Pradesh",India,1212121212,doritech@gmail.com,Active,BR-64,0,1212121212,GRP-1,1,NULL,"2025-07-11 16:09:24",NULL,NULL,Save
+DI-37,"security officer",MR.ANKIT,NULL,GORAKHPUR,Gorakhpur,273001,"Uttar Pradesh",India,9580485679,ankit.singh@aisshpra.com,Active,BR-95,1,9580485679,GRP-1,1,DI-28,"2025-07-14 15:33:09",NULL,NULL,Save
+DI-38,admin,"ANUJ CHAUAHAN",NULL,"Hno 103 Girdhar Enclave sahibabad Ghaziabad",Ghaziabad,201005,"Uttar Pradesh",India,8377035376,xyz@gmail.com,Active,BR-117,0,8377035376,GRP-1,1,NULL,"2025-07-16 15:32:47",NULL,NULL,Save
+DI-39,admin,"Suyash Anuj",NULL,Noida,"Gautam Buddha Nagar",201301,"Uttar Pradesh",India,8279619928,suyashanuj@doritech.in,Active,BR-121,1,1234,GRP-1,1,NULL,"2025-07-16 15:55:11",NULL,NULL,Save
+DI-5,admin,"Security Officer Indripuram",ABCDEF56RT,Indripuram,Noida,201301,"Uttar Pradesh",India,8279619928,d@gmail.com,Active,BR-4,1,1234,GRP-1,1,NULL,NULL,NULL,NULL,NULL
+DI-6,admin,"Security Officer PantWari",ABCDEF56RT,Pantwari,Noida,201301,"Uttar Pradesh",India,8279619928,e@gmail.com,Active,BR-5,1,1234,GRP-1,1,NULL,NULL,NULL,NULL,NULL
+DI-7,admin,"Security Officer HaibatPur",ABCDEF56RT,Haibatpur,Noida,201301,"Uttar Pradesh",India,8279619928,f@gmail.com,Active,BR-6,1,1234,GRP-1,1,NULL,NULL,NULL,NULL,NULL
+DI-8,admin,"Security Officer Sector-62",ABCDEF56RT,"Sector 62",Noida,201301,"Uttar Pradesh",India,8279619928,k@gmail.com,Active,BR-7,1,1234,GRP-1,1,NULL,NULL,NULL,NULL,NULL

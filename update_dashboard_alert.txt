@@ -1,0 +1,10 @@
+Update needed in DashboardAlert.tsx:
+
+1. Add a new variable to store parentBranchName
+2. Fetch parentBranchName from getBranchByBranchCode API
+3. Pass it to all alertRows in the controllingOffice field
+
+Changes to make at line ~265-375:
+- Add: let parentBranchName = '';
+- Fetch from getBranchByBranchCode and extract parentBranchName
+- Update controllingOffice in alertRows to use this value
