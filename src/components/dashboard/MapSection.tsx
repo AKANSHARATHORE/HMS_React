@@ -301,7 +301,7 @@ const MapSection: React.FC = () => {
       const existingScript = document.getElementById('googleMaps');
       if (!existingScript) {
         const script = document.createElement('script');
-        script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyDMKndzFcfiysofJH9zTVJtOCeIH70nKcc';
+        script.src = 'https://maps.googleapis.com/maps/api/js?key="key"';
         script.id = 'googleMaps';
         script.async = true;
         script.defer = true;
